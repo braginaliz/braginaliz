@@ -139,25 +139,10 @@
 
 ## 📊 GitHub статистика 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=braginaliz&show_icons=true&theme=buefy&title_color=FF69B4&icon_color=FFB6C1&text_color=000000&bg_color=ffffff" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=buefy&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braginaliz&layout=compact&theme=buefy&title_color=FF69B4&text_color=000000&bg_color=ffffff" alt="Top Languages" />
-
 </div>
 
----
-
-<div align="center">
-
-## 🎀 Популярные проекты 🎀
-
-[![SkillSwap](https://github-readme-stats.vercel.app/api/pin/?username=braginaliz&repo=skillswap-backend&theme=buefy&title_color=FF69B4&icon_color=FFB6C1&text_color=000000&bg_color=ffffff)](https://github.com/braginaliz/skillswap-backend)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=braginaliz&repo=visitka&theme=buefy&title_color=FF69B4&icon_color=FFB6C1&text_color=000000&bg_color=ffffff)](https://github.com/braginaliz/visitka)
-
-</div>
 
 ---
 
