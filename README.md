@@ -160,7 +160,7 @@
 
 <div align="center">
 
-### 🌟 *"Простота — это высшая степень сложности"* 🌟
+###  *"Простота — это высшая степень сложности"* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" />
 
