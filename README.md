@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✦+Frontend+%2B+Backend+✦;✦+TypeScript+%7C+React+%7C+NestJS+✦;✦+Transport+network+development+✦" alt="Typing SVG" />
 
-✨✨✨
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://visitka-dun.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braginaliz)
@@ -20,7 +20,7 @@
 
 <div align="center">
   
-✨ **PROFILE** ✨
+ **PROFILE** 
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
   
-✨ **EXPERIENCE** ✨
+ **EXPERIENCE** 
 
 </div>
 
@@ -95,7 +95,7 @@
 
 <div align="center">
   
-✨ **TECH STACK** ✨
+ **TECH STACK** 
 
 </div>
 
@@ -135,7 +135,7 @@
 
 <div align="center">
   
-✨ **EDUCATION** ✨
+ **EDUCATION** 
 
 </div>
 
@@ -147,7 +147,7 @@
 
 <div align="center">
   
-✨ **GITHUB STATS** ✨
+ **GITHUB STATS** 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 
@@ -157,7 +157,7 @@
 
 <div align="center">
 
-✨✨✨
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://visitka-dun.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge)](https://github.com/braginaliz)
