@@ -1,42 +1,16 @@
 <div align="center">
 
-# 💖 Привет, я Лиза! 💖
+# Лиза Брагина
 
-### ✨ Fullstack-разработчик | JavaScript | TypeScript | React | NestJS ✨
+### Fullstack Developer | TypeScript | React | NestJS
 
-*Создаю продукты с душой — чистый код, современный дизайн и безупречный UX*
+*Clean code, modular architecture, thoughtful UX*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%F0%9F%92%96+Frontend+%2B+Backend;%F0%9F%8C%B8+TypeScript+%7C+React+%7C+NestJS;%E2%9C%A8+Clean+Code+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D95B9B&center=true&vCenter=true&width=435&lines=Frontend+%2B+Backend;TypeScript+%7C+React+%7C+NestJS;Transport+network+development" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 О себе 🌸
-
-</div>
-
-<div align="center">
-
-💫 **Мой путь:** управление проектами → создание продуктов своими руками
-
-🎯 **Философия:** чистый код + эмпатия к пользователю = магия UX
-
-💖 **Люблю:** строгую типизацию, модульную архитектуру и красивые интерфейсы
-
-🌟 **Фишка:** опыт управления проектами научил слушать и создавать ценность
-
-<br>
-
-*Я не просто пишу код — я создаю логику и функциональность, которые оживляют идеи.*
-
-*От координации процессов до разработки fullstack-приложений, я выбрала TypeScript за надёжный каркас для командной работы и NestJS за элегантную архитектуру на серверной стороне.*
+[![Portfolio](https://img.shields.io/badge/Portfolio-BD5F87?style=for-the-badge&logo=vercel&logoColor=white)](https://visitka-dun.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braginaliz)
+[![Email](https://img.shields.io/badge/Email-C08081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
 
 </div>
 
@@ -44,55 +18,88 @@
 
 <div align="center">
 
-## 💼 Опыт работы 💼
-
-</div>
-
-### 🦄 Fullstack-разработчик | Проектная деятельность
-**Апрель 2024 — настоящее время**
-
-**🎀 Проект SkillSwap — платформа обмена навыками (NestJS Backend)**
-
-- 🏗️ **Архитектура:** инициализация NestJS, модульная структура, CI/CD (GitHub Actions), TypeORM + PostgreSQL
-- 🔐 **Аутентификация:** JWT (Access/Refresh), Passport.js, bcrypt, Guards для USER/ADMIN
-- 👥 **CRUD & Поиск:** пользователи, навыки, пагинация, фильтры, QueryBuilder
-- 📁 **Файлы:** загрузка аватаров/изображений через Multer
-- 📨 **Заявки & Real-time:** система заявок на обмен, WebSocket для уведомлений, WsJwtGuard
-- 🌳 **Категории:** древовидная структура, seeding
-- ✅ **Тесты:** e2e и unit-тесты, покрытие >70%, Swagger API-документация
-- 🚀 **Деплой:** Railway/Render
-
----
-
-### 🌈 Frontend-разработчик | Яндекс Практикум
-**Март 2024 — Июнь 2025 (1 год 4 месяца)**
-
-- ⚛️ Разработка компонентов на React и Vue.js
-- 🎨 Адаптивная вёрстка по макетам Figma
-- ⚡ Оптимизация производительности, рефакторинг legacy-кода
-- 🛠️ Настройка сборки (Vite/Webpack), тесты (Jest, React Testing Library)
-- 🤝 Code review, работа с бэкендом по REST API, участие в спринтах
-
----
-
-### 🎮 Организатор мероприятий, игропрактик | НИУ ВШЭ, Мастерская предпринимательства
-**Июнь 2022 — Июль 2024 (2 года 2 месяца)**
-
-- 🎪 Организовала 10+ мероприятий для студентов и предпринимателей
-- 🎯 Разработала игровые механики для командного взаимодействия
-- 📈 Результат: +25% вовлечённости участников
-
----
-
-<div align="center">
-
-## 🛠️ Технологический стек 🛠️
+## Profile
 
 </div>
 
 <div align="center">
 
-### 💗 Frontend
+**Path:** Project Management → Fullstack Development
+
+**Approach:** Clean code + user empathy = quality product
+
+**Focus:** Strong typing, modular architecture, real-world solutions
+
+*From coordinating processes to building fullstack applications. I chose TypeScript for reliability and NestJS for elegant server-side architecture.*
+
+</div>
+
+---
+
+<div align="center">
+
+## Experience
+
+</div>
+
+### Fullstack Developer | Transport Network Solutions
+**January 2026 — Present**
+
+**Transport modeling and routing system**
+
+- Development of a route calculation system for urban transport networks
+- Integration with pgRouting for pathfinding algorithms
+- PostgreSQL/PostGIS database optimization and query tuning
+- Implementation of turn restrictions and complex routing constraints
+- Building visualization components for route display
+
+---
+
+### Fullstack Developer | Project-based
+**April 2024 — Present**
+
+**SkillSwap — Skills exchange platform (NestJS Backend)**
+
+- Architecture: NestJS, modular structure, CI/CD (GitHub Actions), TypeORM + PostgreSQL
+- Authentication: JWT (Access/Refresh), Passport.js, bcrypt, Guards for USER/ADMIN
+- CRUD & Search: pagination, filters, QueryBuilder
+- File upload: Multer integration
+- Real-time: WebSocket notifications, WsJwtGuard
+- Hierarchical categories with seeding
+- Testing: e2e and unit, >70% coverage, Swagger documentation
+- Deployment: Railway/Render
+
+---
+
+### Frontend Developer | Yandex Practicum
+**March 2024 — June 2025**
+
+- Component development with React and Vue.js
+- Responsive layout from Figma designs
+- Performance optimization, legacy code refactoring
+- Build configuration (Vite/Webpack), testing (Jest, RTL)
+- Code review, REST API integration, sprint participation
+
+---
+
+### Event Organizer | HSE University
+**June 2022 — July 2024**
+
+- Organized 10+ events for students and entrepreneurs
+- Developed game mechanics for team collaboration
+- Achieved 25% increase in participant engagement
+
+---
+
+<div align="center">
+
+## Tech Stack
+
+</div>
+
+<div align="center">
+
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -102,15 +109,16 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### 💜 Backend & Database
+### Backend & Database
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🌺 DevOps & Tools
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -125,34 +133,21 @@
 
 <div align="center">
 
-## 🎓 Образование 🎓
+## Education
 
 </div>
 
-🌸 **НИУ ВШЭ, Москва** — Магистр, Теория и методика преподавания иностранных языков и культур (2024)
+**HSE University, Moscow** — Master's degree, Theory and Methods of Teaching Foreign Languages (2024)
 
-🌸 **МГЛУ** — Бакалавр, Юриспруденция (языки: немецкий/английский) (2023)
+**MSLU** — Bachelor's degree, Jurisprudence (German/English) (2023)
 
 ---
 
 <div align="center">
 
-## 📊 GitHub статистика 📊
+## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=buefy&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-
-</div>
-
-
----
-
-<div align="center">
-
-## 💌 Свяжись со мной 💌
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-FFC0CB?style=for-the-badge&logoColor=black)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/✉️_Email-FFB6C1?style=for-the-badge)](mailto:bragina.liz@yandex.ru)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=buefy&ring=BD5F87&fire=BD5F87&currStreakLabel=BD5F87" alt="GitHub Streak" />
 
 </div>
 
@@ -160,8 +155,20 @@
 
 <div align="center">
 
-###  *"Простота — это высшая степень сложности"* 
+## Contact
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-BD5F87?style=for-the-badge)](https://visitka-dun.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge)](https://github.com/braginaliz)
+[![Email](https://img.shields.io/badge/Email-C08081?style=for-the-badge)](mailto:bragina.liz@yandex.ru)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Simplicity is the ultimate sophistication"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C08081&height=100&section=footer" />
 
 </div>
