@@ -1,165 +1,137 @@
 <div align="center">
 
-# 💖 Привет, я Лиза! 💖
-
-### ✨ Fullstack-разработчик | JavaScript | TypeScript | React | NestJS ✨
-
-*Создаю продукты с душой — чистый код, современный дизайн и безупречный UX*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=%F0%9F%92%96+Frontend+%2B+Backend;%F0%9F%8C%B8+TypeScript+%7C+React+%7C+NestJS;%E2%9C%A8+Clean+Code+Advocate" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
-
-</div>
-
----
-
-<div align="center">
-
-## 🌸 О себе 🌸
-
-</div>
-
-<div align="center">
-
-💫 **Мой путь:** управление проектами → создание продуктов своими руками
-
-🎯 **Философия:** чистый код + эмпатия к пользователю = магия UX
-
-💖 **Люблю:** строгую типизацию, модульную архитектуру и красивые интерфейсы
-
-🌟 **Фишка:** опыт управления проектами научил слушать и создавать ценность
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=150&section=header&text=LIZA%20BRAGINA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <br>
 
-*Я не просто пишу код — я создаю логику и функциональность, которые оживляют идеи.*
+**`FULLSTACK DEVELOPER`** &nbsp;&nbsp;✦&nbsp;&nbsp; **`TYPESCRIPT`** &nbsp;&nbsp;✦&nbsp;&nbsp; **`REACT`** &nbsp;&nbsp;✦&nbsp;&nbsp; **`NESTJS`**
 
-*От координации процессов до разработки fullstack-приложений, я выбрала TypeScript за надёжный каркас для командной работы и NestJS за элегантную архитектуру на серверной стороне.*
+<br>
 
-</div>
+*clean architecture • modular design • user-centric development*
 
----
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&duration=2500&pause=600&color=E8A0A8&center=true&vCenter=true&width=450&lines=frontend+%2B+backend;typescript+%2B+react+%2B+nestjs;transport+network+engineering" alt="typing" />
 
-## 💼 Опыт работы 💼
+<br>
 
-</div>
-
-### 🦄 Fullstack-разработчик | Проектная деятельность
-**Апрель 2024 — настоящее время**
-
-**🎀 Проект SkillSwap — платформа обмена навыками (NestJS Backend)**
-
-- 🏗️ **Архитектура:** инициализация NestJS, модульная структура, CI/CD (GitHub Actions), TypeORM + PostgreSQL
-- 🔐 **Аутентификация:** JWT (Access/Refresh), Passport.js, bcrypt, Guards для USER/ADMIN
-- 👥 **CRUD & Поиск:** пользователи, навыки, пагинация, фильтры, QueryBuilder
-- 📁 **Файлы:** загрузка аватаров/изображений через Multer
-- 📨 **Заявки & Real-time:** система заявок на обмен, WebSocket для уведомлений, WsJwtGuard
-- 🌳 **Категории:** древовидная структура, seeding
-- ✅ **Тесты:** e2e и unit-тесты, покрытие >70%, Swagger API-документация
-- 🚀 **Деплой:** Railway/Render
-
----
-
-### 🌈 Frontend-разработчик | Яндекс Практикум
-**Март 2024 — Июнь 2025 (1 год 4 месяца)**
-
-- ⚛️ Разработка компонентов на React и Vue.js
-- 🎨 Адаптивная вёрстка по макетам Figma
-- ⚡ Оптимизация производительности, рефакторинг legacy-кода
-- 🛠️ Настройка сборки (Vite/Webpack), тесты (Jest, React Testing Library)
-- 🤝 Code review, работа с бэкендом по REST API, участие в спринтах
-
----
-
-### 🎮 Организатор мероприятий, игропрактик | НИУ ВШЭ, Мастерская предпринимательства
-**Июнь 2022 — Июль 2024 (2 года 2 месяца)**
-
-- 🎪 Организовала 10+ мероприятий для студентов и предпринимателей
-- 🎯 Разработала игровые механики для командного взаимодействия
-- 📈 Результат: +25% вовлечённости участников
-
----
-
-<div align="center">
-
-## 🛠️ Технологический стек 🛠️
-
-</div>
-
-<div align="center">
-
-### 💗 Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### 💜 Backend & Database
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🌺 DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFB6C1?style=for-the-badge&logo=vercel&logoColor=white&letter-spacing=1)](https://visitka-dun.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FFC0CB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braginaliz)
+[![Email](https://img.shields.io/badge/EMAIL-FFD1DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
 
 </div>
 
 ---
 
-<div align="center">
+### <span style="color:#E8A0A8;">⊹ ABOUT ⊹</span>
 
-## 🎓 Образование 🎓
+<br>
 
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center"><span style="color:#E8A0A8;">trajectory</span><br><br>project management<br>→<br>fullstack development</td>
+    <td width="33%" align="center"><span style="color:#E8A0A8;">credo</span><br><br>clean code<br>+<br>user empathy</td>
+    <td width="33%" align="center"><span style="color:#E8A0A8;">values</span><br><br>strong typing<br>modular architecture<br>thoughtful interfaces</td>
+  </tr>
+</table>
 
-🌸 **НИУ ВШЭ, Москва** — Магистр, Теория и методика преподавания иностранных языков и культур (2024)
+<br>
 
-🌸 **МГЛУ** — Бакалавр, Юриспруденция (языки: немецкий/английский) (2023)
+> *From coordinating processes to crafting applications — TypeScript for reliability, NestJS for structure, empathy for meaning.*
 
----
-
-<div align="center">
-
-## 📊 GitHub статистика 📊
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=buefy&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-
-</div>
-
+<br>
 
 ---
 
-<div align="center">
+### <span style="color:#E8A0A8;">⊹ WORK ⊹</span>
 
-## 💌 Свяжись со мной 💌
+<br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-FFC0CB?style=for-the-badge&logoColor=black)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/✉️_Email-FFB6C1?style=for-the-badge)](mailto:bragina.liz@yandex.ru)
+**TRANSPORT NETWORK SOLUTIONS** &nbsp;&nbsp;<span style="color:#E8A0A8;">2026 — present</span>
 
-</div>
+route calculation · pgRouting integration · spatial optimization · turn restrictions · PostGIS
+
+<br>
+
+**SKILLSWAP PLATFORM** &nbsp;&nbsp;<span style="color:#E8A0A8;">2024 — present</span>
+
+NestJS · TypeORM · JWT auth · WebSockets · Swagger · 70% coverage · Railway
+
+<br>
+
+**YANDEX PRACTICUM** &nbsp;&nbsp;<span style="color:#E8A0A8;">2024 — 2025</span>
+
+React · Vue.js · performance tuning · Jest + RTL · code review · sprint workflow
+
+<br>
+
+**HSE UNIVERSITY — EVENT DIRECTOR** &nbsp;&nbsp;<span style="color:#E8A0A8;">2022 — 2024</span>
+
+10+ events · 25% engagement increase · team facilitation · game design
+
+<br>
 
 ---
 
-<div align="center">
+### <span style="color:#E8A0A8;">⊹ STACK ⊹</span>
 
-###  *"Простота — это высшая степень сложности"* 
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=100&section=footer" />
+<p align="center">
+  <code>TypeScript</code> • <code>React</code> • <code>Vue.js</code> • <code>Tailwind</code> • <code>Vite</code>
+  <br><br>
+  <code>NestJS</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>PostGIS</code> • <code>TypeORM</code>
+  <br><br>
+  <code>Docker</code> • <code>GitHub Actions</code> • <code>Jest</code> • <code>Railway</code>
+</p>
+
+<br>
+
+---
+
+### <span style="color:#E8A0A8;">⊹ EDUCATION ⊹</span>
+
+<br>
+
+**HSE UNIVERSITY, MOSCOW** — master's, language teaching methodology · 2024
+
+**MSLU** — bachelor's, jurisprudence · 2023
+
+<br>
+
+---
+
+### <span style="color:#E8A0A8;">⊹ STATS ⊹</span>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=transparent&hide_border=true&stroke=FFD1DC&ring=E8A0A8&fire=E8A0A8&currStreakLabel=E8A0A8&sideLabels=E8A0A8&dates=FFB6C1&currStreakNum=E8A0A8&sideNums=E8A0A8" width="450"/>
+</p>
+
+<br>
+
+---
+
+### <span style="color:#E8A0A8;">⊹ CONNECT ⊹</span>
+
+<br>
+
+<p align="center">
+  <a href="https://visitka-dun.vercel.app/"><img src="https://img.shields.io/badge/portfolio-E8A0A8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FFD1DC"></a>
+  <a href="https://github.com/braginaliz"><img src="https://img.shields.io/badge/github-FFB6C1?style=for-the-badge&logo=github&logoColor=white&labelColor=FFD1DC"></a>
+  <a href="mailto:bragina.liz@yandex.ru"><img src="https://img.shields.io/badge/email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFD1DC"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <span style="font-family: 'IBM Plex Mono'; font-size: 12px; color: #E8A0A8;">simplicity is the ultimate sophistication</span>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD1DC&height=80&section=footer" width="100%"/>
+
+</div>
