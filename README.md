@@ -1,176 +1,158 @@
 <div align="center">
 
-# ✨ Лиза Брагина ✨
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB7C5&height=70&section=header&text=Elizaveta%20Bragina&fontSize=40&fontColor=FFFFFF&animation=fadeIn" width="800"/>
 
-### ✦ Fullstack Developer | TypeScript | React | NestJS ✦
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=18&duration=2500&pause=800&color=E8797E&center=true&vCenter=true&width=500&lines=fullstack+developer;typescript+%2B+react+%2B+nestjs;transport+network+engineering" alt="typing" />
 
-*Clean code, modular architecture, thoughtful UX*
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=✦+Frontend+%2B+Backend+✦;✦+TypeScript+%7C+React+%7C+NestJS+✦;✦+Transport+network+development+✦" alt="Typing SVG" />
-
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
+[![portfolio](https://img.shields.io/badge/-PORTFOLIO-E8797E?style=flat-square&logo=vercel&logoColor=white&letter-spacing=2)](https://visitka-dun.vercel.app/)
+[![github](https://img.shields.io/badge/-GITHUB-F2C5CC?style=flat-square&logo=github&logoColor=white)](https://github.com/braginaliz)
+[![email](https://img.shields.io/badge/-EMAIL-FFD9E2?style=flat-square&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
 
 </div>
 
----
+<br>
 
 <div align="center">
   
- **PROFILE** 
+**path**
+<p style="font-family: 'Courier New'; letter-spacing: 2px; color: #E8797E;">project management → development</p>
+
+**philosophy**
+<p style="font-family: 'Georgia'; font-style: italic; color: #F09CA4;">clean code + user empathy = meaningful product</p>
+
+**focus**
+<p style="font-family: 'Fira Code'; font-size: 12px; color: #D96B73;">typed systems | modular architecture | spatial data</p>
 
 </div>
 
-<div align="center">
-
-**Path:** Project Management → Fullstack Development
-
-**Approach:** Clean code + user empathy = quality product
-
-**Focus:** Strong typing, modular architecture, real-world solutions
-
-✨
-
-*From coordinating processes to building fullstack applications. I chose TypeScript for reliability and NestJS for elegant server-side architecture.*
-
-</div>
+<br>
 
 ---
+
+<br>
 
 <div align="center">
   
- **EXPERIENCE** 
+**current**
 
 </div>
 
-### ✨ Fullstack Developer | Transport Network Solutions
-**January 2026 — Present**
+<br>
 
-✦ Transport modeling and routing system
-✦ Integration with pgRouting for pathfinding algorithms
-✦ PostgreSQL/PostGIS database optimization and query tuning
-✦ Implementation of turn restrictions and complex routing constraints
-✦ Building visualization components for route display
+<div align="center">
+  <table style="border: none; width: 80%;">
+    <tr>
+      <td style="border: none; text-align: right; width: 30%;"><span style="color: #E8797E; font-weight: 300;">01</span></td>
+      <td style="border: none; text-align: left;"><b>transport network solutions</b><br><span style="font-size: 14px; color: #D96B73;">jan 2026 — present</span><br><span style="font-size: 13px;">pgRouting · PostGIS · route optimization · turn restrictions</span></td>
+    </tr>
+    <tr>
+      <td style="border: none; text-align: right;"><span style="color: #E8797E; font-weight: 300;">02</span></td>
+      <td style="border: none; text-align: left;"><b>skillswap platform</b><br><span style="font-size: 14px; color: #D96B73;">apr 2024 — present</span><br><span style="font-size: 13px;">NestJS · TypeORM · JWT · WebSockets · 70%+ coverage</span></td>
+    </tr>
+    <tr>
+      <td style="border: none; text-align: right;"><span style="color: #E8797E; font-weight: 300;">03</span></td>
+      <td style="border: none; text-align: left;"><b>yandex practicum</b><br><span style="font-size: 14px; color: #D96B73;">mar 2024 — jun 2025</span><br><span style="font-size: 13px;">React · Vue.js · performance optimization · code review</span></td>
+    </tr>
+  </table>
+</div>
 
----
-
-### ✨ Fullstack Developer | Project-based
-**April 2024 — Present**
-
-**SkillSwap — Skills exchange platform (NestJS Backend)**
-
-✦ Architecture: NestJS, modular structure, CI/CD (GitHub Actions), TypeORM + PostgreSQL
-✦ Authentication: JWT (Access/Refresh), Passport.js, bcrypt, Guards for USER/ADMIN
-✦ CRUD & Search: pagination, filters, QueryBuilder
-✦ File upload: Multer integration
-✦ Real-time: WebSocket notifications, WsJwtGuard
-✦ Hierarchical categories with seeding
-✦ Testing: e2e and unit, >70% coverage, Swagger documentation
-✦ Deployment: Railway/Render
+<br>
 
 ---
 
-### ✨ Frontend Developer | Yandex Practicum
-**March 2024 — June 2025**
-
-✦ Component development with React and Vue.js
-✦ Responsive layout from Figma designs
-✦ Performance optimization, legacy code refactoring
-✦ Build configuration (Vite/Webpack), testing (Jest, RTL)
-✦ Code review, REST API integration, sprint participation
-
----
-
-### ✨ Event Organizer | HSE University
-**June 2022 — July 2024**
-
-✦ Organized 10+ events for students and entrepreneurs
-✦ Developed game mechanics for team collaboration
-✦ Achieved 25% increase in participant engagement
-
----
+<br>
 
 <div align="center">
   
- **TECH STACK** 
+**toolkit**
 
 </div>
+
+<br>
 
 <div align="center">
 
-### Frontend
+<span style="font-family: monospace; color: #E8797E; font-size: 12px;">[ frontend ]</span>
+<br>
+<img src="https://img.shields.io/badge/TypeScript-FFB7C5?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-FFC5D0?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-FFD9E2?style=flat-square&logo=vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-FFE4EC?style=flat-square&logo=tailwindcss&logoColor=white"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-FFC0CB?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-FFC0CB?style=for-the-badge&logo=sass&logoColor=white)
+<br><br>
 
-### Backend & Database
+<span style="font-family: monospace; color: #E8797E; font-size: 12px;">[ backend ]</span>
+<br>
+<img src="https://img.shields.io/badge/NestJS-FFB7C5?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-FFC5D0?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-FFD9E2?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostGIS-FFE4EC?style=flat-square&logo=postgresql&logoColor=white"/>
 
-![NestJS](https://img.shields.io/badge/NestJS-FF69B4?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFC0CB?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FFB6C1?style=for-the-badge&logo=typeorm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-FFC0CB?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<br><br>
 
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FFC0CB?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-FF69B4?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-FFB6C1?style=for-the-badge&logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-FFC0CB?style=for-the-badge&logo=jest&logoColor=white)
+<span style="font-family: monospace; color: #E8797E; font-size: 12px;">[ infrastructure ]</span>
+<br>
+<img src="https://img.shields.io/badge/Docker-FFB7C5?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-FFC5D0?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-FFD9E2?style=flat-square&logo=railway&logoColor=white"/>
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 <div align="center">
   
- **EDUCATION** 
+**education**
 
 </div>
 
-**HSE University, Moscow** — Master's degree, Theory and Methods of Teaching Foreign Languages (2024)
+<br>
 
-**MSLU** — Bachelor's degree, Jurisprudence (German/English) (2023)
+<div align="center">
+  <p style="margin: 4px 0;"><b>HSE university, moscow</b> <span style="color: #D96B73;">— master's, language teaching methodology (2024)</span></p>
+  <p style="margin: 4px 0;"><b>MSLU</b> <span style="color: #F09CA4;">— bachelor's, jurisprudence (2023)</span></p>
+</div>
+
+<br>
 
 ---
+
+<br>
 
 <div align="center">
   
- **GITHUB STATS** 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=radical&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=rose&hide_border=true&stroke=FFB7C5&ring=E8797E&fire=E8797E&currStreakLabel=E8797E&sideLabels=E8797E&dates=FFC5D0" width="450"/>
 
 </div>
 
+<br>
+
 ---
 
+<br>
+
 <div align="center">
-
-
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge)](mailto:bragina.liz@yandex.ru)
+  
+[![portfolio](https://img.shields.io/badge/visit.portfolio-E8797E?style=flat-square&logo=vercel&logoColor=white&labelColor=FFD9E2&color=E8797E)](https://visitka-dun.vercel.app/) 
+[![github](https://img.shields.io/badge/see.code-FFC5D0?style=flat-square&logo=github&logoColor=white&labelColor=FFE4EC&color=FFC5D0)](https://github.com/braginaliz) 
+[![write.me](https://img.shields.io/badge/say.hello-FFD9E2?style=flat-square&logo=gmail&logoColor=white&labelColor=FFF0F3&color=FFD9E2)](mailto:bragina.liz@yandex.ru)
 
 </div>
 
----
+<br>
 
 <div align="center">
+  <span style="font-family: 'Playfair Display'; font-size: 13px; color: #E8797E; letter-spacing: 3px;">simplicity is the ultimate sophistication</span>
+</div>
 
-*"Simplicity is the ultimate sophistication"*
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFD9E2&height=60&section=footer" width="800"/>
 
 </div>
