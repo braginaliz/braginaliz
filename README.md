@@ -1,24 +1,26 @@
 <div align="center">
 
-# Лиза Брагина
+# <img src="https://cdn.discordapp.com/emojis/1055801522975809586.gif" width="30" alt="sparkle"/> Лиза Брагина <img src="https://cdn.discordapp.com/emojis/1055801522975809586.gif" width="30" alt="sparkle"/>
 
-### Fullstack Developer | TypeScript | React | NestJS
+### ✦ Fullstack Developer | TypeScript | React | NestJS ✦
 
 *Clean code, modular architecture, thoughtful UX*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D95B9B&center=true&vCenter=true&width=435&lines=Frontend+%2B+Backend;TypeScript+%7C+React+%7C+NestJS;Transport+network+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E84393&center=true&vCenter=true&width=500&lines=✦+Frontend+%2B+Backend+✦;✦+TypeScript+%7C+React+%7C+NestJS+✦;✦+Transport+network+development+✦" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-BD5F87?style=for-the-badge&logo=vercel&logoColor=white)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/Email-C08081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/342f6f0f-04e2-4ecb-831c-6f6e29efd97f" width="80" alt="sparkle"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white&effect=shine)](https://visitka-dun.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braginaliz)
+[![Email](https://img.shields.io/badge/Email-FF85B3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bragina.liz@yandex.ru)
 
 </div>
 
 ---
 
 <div align="center">
-
-## Profile
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=500&color=E84393&center=true&vCenter=true&width=300&lines=✦+PROFILE+✦" alt="Profile" />
 
 </div>
 
@@ -30,6 +32,8 @@
 
 **Focus:** Strong typing, modular architecture, real-world solutions
 
+<img src="https://i.pinimg.com/originals/c3/a5/0c/c3a50c01f7d45117288f16d300cb884a.gif" width="200" alt="rose"/>
+
 *From coordinating processes to building fullstack applications. I chose TypeScript for reliability and NestJS for elegant server-side architecture.*
 
 </div>
@@ -37,63 +41,61 @@
 ---
 
 <div align="center">
-
-## Experience
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=500&color=E84393&center=true&vCenter=true&width=300&lines=✦+EXPERIENCE+✦" alt="Experience" />
 
 </div>
 
-### Fullstack Developer | Transport Network Solutions
+### 💎 Fullstack Developer | Transport Network Solutions
 **January 2026 — Present**
 
-**Transport modeling and routing system**
-
-- Development of a route calculation system for urban transport networks
-- Integration with pgRouting for pathfinding algorithms
-- PostgreSQL/PostGIS database optimization and query tuning
-- Implementation of turn restrictions and complex routing constraints
-- Building visualization components for route display
+✦ Transport modeling and routing system
+✦ Integration with pgRouting for pathfinding algorithms
+✦ PostgreSQL/PostGIS database optimization and query tuning
+✦ Implementation of turn restrictions and complex routing constraints
+✦ Building visualization components for route display
 
 ---
 
-### Fullstack Developer | Project-based
+### 💎 Fullstack Developer | Project-based
 **April 2024 — Present**
 
 **SkillSwap — Skills exchange platform (NestJS Backend)**
 
-- Architecture: NestJS, modular structure, CI/CD (GitHub Actions), TypeORM + PostgreSQL
-- Authentication: JWT (Access/Refresh), Passport.js, bcrypt, Guards for USER/ADMIN
-- CRUD & Search: pagination, filters, QueryBuilder
-- File upload: Multer integration
-- Real-time: WebSocket notifications, WsJwtGuard
-- Hierarchical categories with seeding
-- Testing: e2e and unit, >70% coverage, Swagger documentation
-- Deployment: Railway/Render
+✦ Architecture: NestJS, modular structure, CI/CD (GitHub Actions), TypeORM + PostgreSQL
+✦ Authentication: JWT (Access/Refresh), Passport.js, bcrypt, Guards for USER/ADMIN
+✦ CRUD & Search: pagination, filters, QueryBuilder
+✦ File upload: Multer integration
+✦ Real-time: WebSocket notifications, WsJwtGuard
+✦ Hierarchical categories with seeding
+✦ Testing: e2e and unit, >70% coverage, Swagger documentation
+✦ Deployment: Railway/Render
 
 ---
 
-### Frontend Developer | Yandex Practicum
+### 💎 Frontend Developer | Yandex Practicum
 **March 2024 — June 2025**
 
-- Component development with React and Vue.js
-- Responsive layout from Figma designs
-- Performance optimization, legacy code refactoring
-- Build configuration (Vite/Webpack), testing (Jest, RTL)
-- Code review, REST API integration, sprint participation
+✦ Component development with React and Vue.js
+✦ Responsive layout from Figma designs
+✦ Performance optimization, legacy code refactoring
+✦ Build configuration (Vite/Webpack), testing (Jest, RTL)
+✦ Code review, REST API integration, sprint participation
 
 ---
 
-### Event Organizer | HSE University
+### 💎 Event Organizer | HSE University
 **June 2022 — July 2024**
 
-- Organized 10+ events for students and entrepreneurs
-- Developed game mechanics for team collaboration
-- Achieved 25% increase in participant engagement
+✦ Organized 10+ events for students and entrepreneurs
+✦ Developed game mechanics for team collaboration
+✦ Achieved 25% increase in participant engagement
 
 ---
 
 <div align="center">
-
-## Tech Stack
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=500&color=E84393&center=true&vCenter=true&width=300&lines=✦+TECH+STACK+✦" alt="Tech Stack" />
 
 </div>
 
@@ -132,8 +134,8 @@
 ---
 
 <div align="center">
-
-## Education
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=500&color=E84393&center=true&vCenter=true&width=300&lines=✦+EDUCATION+✦" alt="Education" />
 
 </div>
 
@@ -144,10 +146,10 @@
 ---
 
 <div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=18&duration=2000&pause=500&color=E84393&center=true&vCenter=true&width=300&lines=✦+GITHUB+STATS+✦" alt="GitHub Stats" />
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=buefy&ring=BD5F87&fire=BD5F87&currStreakLabel=BD5F87" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=braginaliz&theme=radical&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="GitHub Streak" />
 
 </div>
 
@@ -155,11 +157,11 @@
 
 <div align="center">
 
-## Contact
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4620199b-a724-4a2a-8ed8-47b18cda040f" width="150"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-BD5F87?style=for-the-badge)](https://visitka-dun.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-DB7093?style=for-the-badge)](https://github.com/braginaliz)
-[![Email](https://img.shields.io/badge/Email-C08081?style=for-the-badge)](mailto:bragina.liz@yandex.ru)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge)](https://visitka-dun.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge)](https://github.com/braginaliz)
+[![Email](https://img.shields.io/badge/Email-FF85B3?style=for-the-badge)](mailto:bragina.liz@yandex.ru)
 
 </div>
 
@@ -169,6 +171,6 @@
 
 *"Simplicity is the ultimate sophistication"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C08081&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
 
 </div>
